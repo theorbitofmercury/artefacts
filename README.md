@@ -1,3 +1,19 @@
+<!--
+Source - https://stackoverflow.com/q/26683411
+Posted by Tim Reilly, modified by community. See post 'Timeline' for change history
+Retrieved 2026-04-18, License - CC BY-SA 4.0
+-->
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Welcome</title>
+</head>
+<body>
+    <h1>Django Site</h1>
+    <hr />
+    <p>
 Test to check-out the new Raspberry reamote deploy thing:
 https://www.raspberrypi.com/news/new-remote-updates-on-raspberry-pi-connect/
 
@@ -18,5 +34,24 @@ Works. Useful for checking speed of deployment as the app rings on the phone whe
 Artefact pyplaymp3.tar.zst
 Play a mp3 form python using pygames module. This is to see if we get any sound out as ffplaymp3 didn't.
 First attempt sound out from RPi audio jack with some python errors in the journalctl. Solved them by creating /etc/asound.conf and finding some stuff to ensute paths correct. Eventually deployment worked but still sound out of audio jack and not the pipe /tmp/snapfifo.
+</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  

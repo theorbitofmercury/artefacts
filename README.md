@@ -8,10 +8,10 @@ Retrieved 2026-04-18, License - CC BY-SA 4.0
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Raspberry Pi</title>
+    <h1>Raspberry Pi</h1>
 </head>
 <body>
-    <h1>DRaspberry Pi Artefacts :shipit:</h1>
+    <h1>Raspberry Pi Artefacts 😀</h1>
     <hr />
     <p>
 Test to check-out the new Raspberry reamote deploy thing:

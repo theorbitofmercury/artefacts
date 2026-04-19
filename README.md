@@ -32,8 +32,8 @@ Sends a message to the Pushover service: https://pushover.net/
 Works. Useful for checking speed of deployment as the app rings on the phone when message recieved.
 
 Artefact pyplaymp3.tar.zst
-Play a mp3 form python using pygames module. This is to see if we get any sound out as ffplaymp3 didn't.
-First attempt sound out from RPi audio jack with some python errors in the journalctl. Solved them by creating /etc/asound.conf and finding some stuff to ensute paths correct. Eventually deployment worked but still sound out of audio jack and not the pipe /tmp/snapfifo.
+Play a mp3 from python using pygames module. This is to see if we get any sound out as ffplaymp3 didn't.
+First attempt sound out from RPi audio jack with some python errors in the journalctl. Solved them by creating /etc/asound.conf and finding some stuff to ensure paths are correct. Eventually deployment worked but still sound out of audio jack and not the pipe /tmp/snapfifo.
 </p>
 
 ![](https://github.com/theorbitofmercury/artefacts/blob/main/example.svg)
